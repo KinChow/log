@@ -10,7 +10,6 @@
 
 #include <cstdio>
 #include <ctime>
-#include "config.h"
 
 char *GetTime()
 {
